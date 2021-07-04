@@ -1,7 +1,7 @@
 import java.util.Scanner;
 publi class even
 {
-public static vvoid mainn(String args[])
+public static void mainn(String args[])
 {
 Scannerr sc=new scanner(System.in);
 int start,end,i;
